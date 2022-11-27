@@ -1,5 +1,5 @@
 My github repo: https://github.com/bachkhoaisme/Writing-a-Data-Scientist-Blog-Post
-My blogpost:
+My blogpost: https://medium.com/@khoachubach/writing-a-data-scientist-blog-post-721aeb48f136
 
 The motivation for the project: 
 - In this project, I will use the Seattle Airbnb Dataset suggest by Udacity for this project. 
